@@ -1,0 +1,9 @@
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\bin\Debug\UcakBiletRezervasyon.exe.config
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\bin\Debug\UcakBiletRezervasyon.exe
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\bin\Debug\UcakBiletRezervasyon.pdb
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\obj\Debug\UcakBiletRezervasyon.csprojResolveAssemblyReference.cache
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\obj\Debug\UcakBiletRezervasyon.Form1.resources
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\obj\Debug\UcakBiletRezervasyon.Properties.Resources.resources
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\obj\Debug\UcakBiletRezervasyon.csproj.GenerateResource.Cache
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\obj\Debug\UcakBiletRezervasyon.exe
+c:\users\gokha\documents\visual studio 2015\Projects\UcakBiletRezervasyon\UcakBiletRezervasyon\obj\Debug\UcakBiletRezervasyon.pdb
